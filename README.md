@@ -1,5 +1,5 @@
 # Tunexa
-EShop web app that has admin and client sides. Built with Angular 6, Sring Boot and JWT.
+Export company web app that has admin and client sides. Built with Angular 6, Sring Boot and JWT.
 
 # 
 This app allows the admin to add categories of products and add items, besides to upload images and read client orders and messages.
