@@ -1,4 +1,4 @@
-# EShopAngular
+# Tunexa
 EShop web app that has admin and client sides. Built with Angular 6, Sring Boot and JWT.
 
 # 
